@@ -1,2 +1,2 @@
 this is new for merge
-the second for merge
+the second for(conflict) merge
