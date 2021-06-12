@@ -1,3 +1,2 @@
-this is new for merge
-the second for(conflict) merge
-
+today is 2021-06-12
+today is 2021-06-12
